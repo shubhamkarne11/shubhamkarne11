@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [shubham-karne-portfolio.vercel.com](shubham-karne-portfolio.vercel.com)
+- 👨‍💻 All of my projects are available at [shubham-karne-portfolio.vercel.com](https://shubham-karne-portfolio.vercel.com)
 
 - 💬 Ask me about **Android, MERN**
 
