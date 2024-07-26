@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/shubhamkarne" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamkarne?logo=twitter&style=for-the-badge" alt="shubhamkarne" /></a> </p>
 
-- 🔭 I’m currently working on **News App**
+- 🔭 I’m currently working on **Phishing Classifier**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at <a href="https://shubham-karne-portfolio.vercel.com" target="blank">shubham-karne-portfolio.vercel.com</a>
 
