@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at <a href="https://shubham-karne-portfolio.vercel.com" target="blank">shubham-karne-portfolio.vercel.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://shubhamkarne12.vercel.app" target="blank">shubhamkarne12.vercel.app</a>
 
 - 💬 Ask me about **Android, MERN**
 
