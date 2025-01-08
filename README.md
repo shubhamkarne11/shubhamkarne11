@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **karneshubham2005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/#](https://drive.google.com/file/d/1XaOe_N2ZwQGJqlOHsEWQgT7ohqOvBh0u/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/..](https://drive.google.com/file/d/1mJWKTvWLgMs6uNJuDOwbR60rCXL_YmSo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
