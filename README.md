@@ -57,13 +57,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamkarne11&show_icons=true&locale=en" alt="shubhamkarne11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkarne11&" alt="shubhamkarne11" /></p>
-<<<<<<< HEAD
-<img src="https://raw.githubusercontent.com/shubhamkarne11/shubhamkarne11/output/snake.svg" alt="Snake animation" />
-=======
 
 <img src="https://raw.githubusercontent.com/shubhamkarne11/shubhamkarne11/output/snake.svg" alt="Snake animation" />
-
->>>>>>> 6ac5272 (Save local changes before rebase)
 <!--<details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
