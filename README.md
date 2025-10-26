@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkarne11&" alt="shubhamkarne11" /></p>
 
+![Snake Image](snake.svg)
+
 <!--<details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
